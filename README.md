@@ -1,7 +1,10 @@
 # credit-card-fraud-detection
 
 ## Dataset of this project is available in :
-[Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+[Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+## Raw file is available in :
+[raw data](creditcard.csv)
 
 
 ## Problem Statement
