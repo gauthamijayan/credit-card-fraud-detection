@@ -96,3 +96,5 @@ weighted avg       1.00      1.00      1.00     56746
 Decision Tree gives an Accuracy of 99.94 % with 100% precision, 100% recall and 100% f1 score.
 
 So it the best model to find frauds in credit cards.
+
+#### Model Serialisation
